@@ -1,2 +1,2 @@
 # ProyectoDisparos
-Juego de intergalactico y disparos 
+Juego intergalactico de disparos 
